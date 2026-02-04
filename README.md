@@ -18,7 +18,9 @@ Whether you're a fellow beginner or just curious about Python, feel free to expl
 
 ## 🎯 Projects
 
-### 1. 🎸 Band Name Generator
+<details>
+<summary><h3>1. 🎸 Band Name Generator</summary></h3>
+   
 **What it does:** Generates creative band names based on user input  
 **Skills practiced:** Using print() function, String manipulation, user input, concatenation  
 **Objective:** Learn how to take user input and combine strings to create dynamic output
@@ -30,9 +32,13 @@ python Band_Name_Generator.py
 
 ```
 
+</details>
+
 ---
 
-### 2. 💰 Tip and Split Calculator
+<details>
+<summary><h3>2. 💰 Tip and Split Calculator</h3></summary>
+   
 **What it does:** The calculator adds the tip percentage to the bill and divides the amount by 
 the people you would like to split the bill with.  
 **Skills practiced:** Using input() function, String manipulation, Type Conversion, Mathimatical Operations  
@@ -40,11 +46,14 @@ the people you would like to split the bill with.
 Change the type of input that is used and combine strings and results to create a dynamic output.
 
 **How to run:**
+
 ```bash
 
 python Tip_Split_Calculator.py
 
 ```
+
+</details>
 
 ---
 
@@ -147,6 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Here's what's coming next:
 
 - [ ] Tip and Split Calculator
+- [ ] Treasure Island
 - [ ] Password Generator
 - [ ] Rock, Paper, Scissors Game
 - [ ] Simple Calculator
