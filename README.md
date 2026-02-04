@@ -26,14 +26,30 @@ Whether you're a fellow beginner or just curious about Python, feel free to expl
 **How to run:**
 ```bash
 
-python band_name_generator.py
+python Band_Name_Generator.py
 
 ```
 
 ---
 
 ### 2. 💰 Tip and Split Calculator
-**Coming Soon!**
+**What it does:** The calculator adds the tip percentage to the bill and divides the amount by 
+the people you would like to split the bill with.  
+**Skills practiced:** Using input() function, String manipulation, Type Conversion, Mathimatical Operations  
+**Objective:** Learn how to take user input, perform math operation on that input, 
+Change the type of input that is used and combine strings and results to create a dynamic output.
+
+**How to run:**
+```bash
+
+python Tip_Split_Calculator.py
+
+```
+
+---
+
+### 3. 🌴 Treasure Island
+**Coming Soon**
 
 ---
 
