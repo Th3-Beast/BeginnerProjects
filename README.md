@@ -57,8 +57,22 @@ python Tip_Split_Calculator.py
 
 ---
 
-### 3. 🌴 Treasure Island
-**Coming Soon**
+<details>
+<summary><h3>2. 🌴 Treasure Island</h3></summary>
+   
+**What it does:** This is a basic adventure text based game and is designed as a fun little project.
+**Skills practiced:** Using input() function, String manipulation, Conditional Statements or Logic Statements  
+**Objective:** Creating something fun and taking a short break from coding theory to enjoy your hard work and creativity. 
+
+**How to run:**
+
+```bash
+
+python Treasure_Island.py
+
+```
+
+</details>
 
 ---
 
