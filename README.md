@@ -76,6 +76,25 @@ python Treasure_Island.py
 
 ---
 
+<details>
+<summary><h3>2. 🪨📃✂️ Rock-Paper-Scissors</h3></summary>
+   
+**What it does:** This is a basic Rock Paper Scissors text based game and is designed as a fun little project.
+**Skills practiced:** Using input() and random functions, String manipulation, Conditional Statements or Logic Statements and ASCII art  
+**Objective:** Creating something fun and giving you time to problem solve while doing some research on ASCII art and logic. 
+
+**How to run:**
+
+```bash
+
+python RockPaperScissors-Game.py
+
+```
+
+</details>
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -171,8 +190,8 @@ Here's what's coming next:
 
 - [ ] Tip and Split Calculator
 - [ ] Treasure Island
-- [ ] Password Generator
 - [ ] Rock, Paper, Scissors Game
+- [ ] Password Generator
 - [ ] Simple Calculator
 - [ ] Hangman Game
 - [ ] Quiz Application
