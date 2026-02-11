@@ -58,7 +58,7 @@ python Tip_Split_Calculator.py
 ---
 
 <details>
-<summary><h3>2. 🌴 Treasure Island</h3></summary>
+<summary><h3>3. 🌴 Treasure Island</h3></summary>
    
 **What it does:** This is a basic adventure text based game and is designed as a fun little project.
 **Skills practiced:** Using input() function, String manipulation, Conditional Statements or Logic Statements  
@@ -76,8 +76,10 @@ python Treasure_Island.py
 
 ---
 
+
+
 <details>
-<summary><h3>2. 🪨📃✂️ Rock-Paper-Scissors</h3></summary>
+<summary><h3>4. 🪨📃✂️ Rock-Paper-Scissors</h3></summary>
    
 **What it does:** This is a basic Rock Paper Scissors text based game and is designed as a fun little project.
 **Skills practiced:** Using input() and random functions, String manipulation, Conditional Statements or Logic Statements and ASCII art  
@@ -88,6 +90,25 @@ python Treasure_Island.py
 ```bash
 
 python RockPaperScissors-Game.py
+
+```
+
+</details>
+
+---
+
+<details>
+<summary><h3>5. 🔑 Simple Password Generator</h3></summary>
+   
+**What it does:** This is a basic password generator that can help you keep your information secure, you get to chose how long to make your password.
+**Skills practiced:** Using input() function and for loops along with lists
+**Objective:** Creating something functional and help you with basic security, by upping your game with unique passwords. 
+
+**How to run:**
+
+```bash
+
+Simple-Password-Generator.py
 
 ```
 
